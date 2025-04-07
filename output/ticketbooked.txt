@@ -1,0 +1,14 @@
+----------------------------
+       🎬 PVR CINEMAS 🎬
+       TICKET CONFIRMED
+----------------------------
+Theatre       : PVR Kolhapur
+Movie         : Avengers
+Seat Number   : A2
+Booking ID    : 30323
+Status        : ✅Confirmed
+Date & Time   : 2025-4-7 18:22
+Price         : ₹250
+----------------------------
+   🍿 Enjoy your movie! 🍿
+----------------------------
